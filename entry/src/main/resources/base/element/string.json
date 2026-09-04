@@ -1,0 +1,152 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "hr_permission_reason",
+      "value": "Read heart rate for workout tracking"
+    },
+    {
+      "name": "pedometer_permission_reason",
+      "value": "Read pedometer value for workout tracking"
+    },
+    {
+      "name": "vibrate_permission_reason",
+      "value": "Use vibrator to alarm user"
+    },
+    {
+      "name": "bpm",
+      "value": "BPM"
+    },
+    {
+      "name": "permission_error",
+      "value": "Permission error"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Permission denied"
+    },
+    {
+      "name": "status_reading",
+      "value": "Reading..."
+    },
+    {
+      "name": "status_stopped",
+      "value": "Stopped"
+    },
+    {
+      "name": "sensor_unavailable",
+      "value": "Sensor unavailable"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "Tap to Start"
+    },
+    {
+      "name": "zone_label_rest",
+      "value": "Rest"
+    },
+    {
+      "name": "zone_label_1",
+      "value": "Warm Up"
+    },
+    {
+      "name": "zone_label_2",
+      "value": "Fat Burn"
+    },
+    {
+      "name": "zone_label_3",
+      "value": "Cardio"
+    },
+    {
+      "name": "zone_label_4",
+      "value": "Peak"
+    },
+    {
+      "name": "zone_label_5",
+      "value": "Max"
+    },
+    {
+      "name": "btn_start",
+      "value": "Start"
+    },
+    {
+      "name": "btn_stop",
+      "value": "Stop"
+    },
+    {
+      "name": "btn_back",
+      "value": "Back"
+    },
+    {
+      "name": "summary_title",
+      "value": "Summary"
+    },
+    {
+      "name": "label_time",
+      "value": "Time"
+    },
+    {
+      "name": "label_steps",
+      "value": "Steps"
+    },
+    {
+      "name": "setup_title",
+      "value": "Set Your Age"
+    },
+    {
+      "name": "label_age",
+      "value": "Age"
+    },
+    {
+      "name": "crown_hint",
+      "value": "Rotate crown to adjust"
+    },
+    {
+      "name": "history_title",
+      "value": "History"
+    },
+    {
+      "name": "history_empty",
+      "value": "No workouts yet."
+    },
+    {
+      "name": "btn_history",
+      "value": "History"
+    },
+    {
+      "name": "zone_distribution",
+      "value": "Zone Distribution"
+    },
+    {
+      "name": "app_name",
+      "value": "ZoneTarget"
+    },
+    {
+      "name": "menu_workout",
+      "value": "Workout"
+    },
+    {
+      "name": "menu_history",
+      "value": "History"
+    },
+    {
+      "name": "menu_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "setting_sound",
+      "value": "Sound"
+    }
+  ]
+}
